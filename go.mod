@@ -1,4 +1,4 @@
-module github.com/azhao1981/cover
+module github.com/azhao1981/go-cover
 
 go 1.22.5
 
